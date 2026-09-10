@@ -1,3 +1,10 @@
+## Team Roster — In-Class 1 v3
+
+| Member | GitHub Username | Contribution |
+|---|---|---|
+| Harshit Jain | @harshitjain25 | Set up repo, wrote question 1,2 and 5. |
+| Parsh Jadon | @parshjadon | Wrote question 3, 4 and 5. |
+
 ## Reflection Questions
 
 ### 1. What surprised you most about how the widget tree, state, or lifecycle actually behaves once you saw it applied in the app?
