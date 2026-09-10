@@ -1,5 +1,12 @@
 # inclass1v3-boomers
 
+## Team Roster — In-Class 1 v3
+
+| Member | GitHub Username | Contribution |
+|---|---|---|
+| Harshit Jain | @harshitjain25 | Set up repo, wrote question 1,2 and 5. |
+| Parsh Jadon | @parshjadon | Wrote question 3, 4 and 5. |
+
 # In-Class 1 v3 — Harshit Jain
 
 ## Personal Reflection
